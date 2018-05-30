@@ -42,7 +42,7 @@ directly from Github (this is also how to get the latest version)
 
 ``` ruby
 group :jekyll_plugins do
-  gem 'swagger_jekyll', github: "harrisj/swagger_jekyll", branch: "master"
+  gem 'swagger-jekyll', github: "harrisj/swagger-jekyll", branch: "master"
 end
 ```
 
